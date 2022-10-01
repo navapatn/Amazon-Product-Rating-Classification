@@ -1,5 +1,5 @@
 # Amazon-Product-Rating-Classification
-Python, Word2Vec, MLP, SVM, FNN, RNN, GRU
+Tag: Python, Word2Vec, MLP, SVM, FNN, RNN, GRU
 
 ## Environment
 I used Python to perform word embedding using if-idf and Word2Vec (trained by google) as an input
